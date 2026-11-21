@@ -1,0 +1,17 @@
+[
+  {
+    "id": "SYN-001",
+    "event": "unexpected access",
+    "detail": "Privacy-preserving cyber threat indicator exchange."
+  },
+  {
+    "id": "SYN-002",
+    "event": "normal operation",
+    "detail": "synthetic baseline"
+  },
+  {
+    "id": "SYN-003",
+    "event": "configuration review",
+    "detail": "manual validation required"
+  }
+]
